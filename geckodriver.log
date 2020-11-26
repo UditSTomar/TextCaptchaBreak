@@ -1,0 +1,14 @@
+1606376862519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MlvR7upXpyID"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606376896877	Marionette	INFO	Listening on port 35089
+1606376897395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606376926487	Marionette	INFO	Stopped listening on port 35089
+1606377306093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zIdoijrQqeM0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606377314052	Marionette	INFO	Listening on port 40089
+1606377314446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 48: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1606377332994	Marionette	INFO	Stopped listening on port 40089
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
